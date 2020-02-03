@@ -1,0 +1,10 @@
+{
+    "template": "ubuntu-webapp",
+    "policy_groups": [
+        "networking",
+        "picture_files",
+        "video_files_read",
+        "webview"
+    ],
+    "policy_version": 1.3
+}

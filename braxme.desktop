@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Brax.me
+Comment= Privacy focused social media
+Type=Application
+Icon=braxme.svg
+Exec=webapp-container --fullscreen --webappUrlPatterns=https?://brax.me/l.php/* https://brax.me/l.php
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#000000
