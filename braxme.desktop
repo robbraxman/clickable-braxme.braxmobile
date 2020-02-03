@@ -2,7 +2,7 @@
 Name=Brax.me
 Comment= Privacy focused social media
 Type=Application
-Icon=braxme.svg
+Icon=logo.png
 Exec=webapp-container --fullscreen --webappUrlPatterns=https?://brax.me/l.php/* https://brax.me/l.php
 Terminal=false
 X-Ubuntu-Touch=true
