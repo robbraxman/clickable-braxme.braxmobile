@@ -2,7 +2,8 @@
     "template": "ubuntu-webapp",
     "policy_groups": [
         "networking",
-        "webview"
+        "webview",
+        "content_exchange"
     ],
     "policy_version": 16.04
 }

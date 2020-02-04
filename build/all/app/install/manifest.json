@@ -1,7 +1,7 @@
 {
     "name": "braxme.braxmobile",
     "title": "Brax.Me",
-    "version": "2.06",
+    "version": "2.08",
     "description": "Private focused social media and messaging",
     "architecture": "all",
     "framework": "ubuntu-sdk-16.04",
