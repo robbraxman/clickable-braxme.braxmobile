@@ -1,0 +1,15 @@
+{
+    "name": "braxme.braxmobile",
+    "title": "Brax.Me",
+    "version": "2.06",
+    "description": "Private focused social media and messaging",
+    "architecture": "all",
+    "framework": "ubuntu-sdk-16.04",
+    "maintainer": "Braxmobile <rob@brax.me>",
+    "hooks": {
+        "braxme": {
+            "apparmor": "braxme.apparmor",
+            "desktop": "braxme.desktop"
+        }
+    }
+}
